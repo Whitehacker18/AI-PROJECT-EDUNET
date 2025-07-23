@@ -14,3 +14,4 @@ Evaluation: The model’s performance is evaluated using metrics like MAE, RMSE,
 Model persistence: The trained model pipeline is saved to disk using joblib for future use.
 
 Prediction demo: The script loads the saved model and demonstrates predicting salaries for new employee profiles.
+
